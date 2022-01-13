@@ -1,6 +1,6 @@
 
 
-## Boilerplat Nextjs | Tailwind 3 | Storybook
+## Boilerplat Nextjs | Tailwind 3 | Storybook | Dark Mode
 
 
 Install the dependencies
